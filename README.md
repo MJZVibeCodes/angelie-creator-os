@@ -19,3 +19,31 @@ This software distinguish five different things:
 4. Who controls its use within Angelie canon
 5. Who receives money when it is used
 
+# Angelie CreatorOS
+
+An open-source Creator Rights Operating System.
+
+CreatorOS helps storytellers, studios, and creative communities manage:
+
+- Character Registries
+- Chain of Title
+- Creator Contributions
+- Licensing
+- Rights Management
+- Canon Tracking
+- Project Usage
+- Creator Participation
+- Royalty Administration
+
+Built using:
+
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+
+Apache 2.0 Licensed
+
+© Angelie World Holdings, Inc. 
+
+
