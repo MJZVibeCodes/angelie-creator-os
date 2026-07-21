@@ -1,5 +1,4 @@
 # angelie-creator-os
-Creator-owned IP Franchise Holdings
 
 Angelie CreatorOS is a rights-management and creator-participation platform.
 
