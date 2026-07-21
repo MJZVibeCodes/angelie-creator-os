@@ -14,7 +14,12 @@ characters,
 artwork,
 production documents,
 contracts,
-financial models.
+financial models,
+Production Supabase,
+Production API keys,
+Stripe,
+Authentication secrets,
+Financial records.
 
 # What's Open Source
 application code,
