@@ -6,7 +6,7 @@ Angelie CreatorOS™
 
 Angelie World Holdings™
 
-and related logos, names, artwork, characters, and story worlds are trademarks or proprietary intellectual property of Angelie IP Holdings LLC unless otherwise stated.
+and related logos, names, artwork, characters, and story worlds are trademarks or proprietary intellectual property of Angelie World Holdings Inc. unless otherwise stated.
 
 The Apache 2.0 software license does not grant permission to use these trademarks.
 
