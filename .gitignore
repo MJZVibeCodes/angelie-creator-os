@@ -1,0 +1,47 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Supabase local secrets
+supabase/.env
+supabase/functions/.env
+supabase/functions/.env.*
+!supabase/functions/.env.example
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Local Supabase files
+.supabase/
+supabase/.temp/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Test and coverage output
+coverage/
+playwright-report/
+test-results/
+
+# Temporary files
+*.tmp
+*.temp
