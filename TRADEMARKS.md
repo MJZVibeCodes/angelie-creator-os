@@ -4,7 +4,7 @@ Angelie®
 
 Angelie CreatorOS™
 
-Angelie IP Holdings™
+Angelie World Holdings™
 
 and related logos, names, artwork, characters, and story worlds are trademarks or proprietary intellectual property of Angelie IP Holdings LLC unless otherwise stated.
 
