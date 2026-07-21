@@ -6,3 +6,21 @@ As the project grows, this document helps future contributors understand the phi
 # We're building this in the open.
 We're not just making Angelie. 
 We're building the operating system for creator-owned entertainment.
+
+# What's Private
+Angelie screenplay
+story bible
+characters
+artwork
+production documents
+contracts
+financial models
+
+# What's Open Source
+application code
+UI
+database schema
+documentation
+generic sample data
+Apache 2.0 licensed.
+
